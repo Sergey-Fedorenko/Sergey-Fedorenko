@@ -3,3 +3,4 @@
 ### I have the following skills: Java, HTML/CSS, C#
 ### Contact with me:
 - ✉️ ВК: https://vk.com/club215451017
+- 📒 Хабр: https://habr.com/ru/users/SergeyFedorenko/
