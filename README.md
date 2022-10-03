@@ -1,4 +1,4 @@
-# Приветствую 👋
+# Приветствую! 👋
 
 <div id="badges">
   <a href="https://habr.com/ru/users/SergeyFedorenko/posts/">
