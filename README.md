@@ -24,3 +24,4 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-plain-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
