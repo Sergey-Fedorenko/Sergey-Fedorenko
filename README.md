@@ -2,7 +2,7 @@
 
 <div id="badges">
 <a href="https://habr.com/ru/users/SergeyFedorenko/posts/">
-    <img src="https://img.shields.io/badge/ХАБР (Мои статьи)-lightYellow?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ХАБР (Мои статьи)-LightSkyBlue?style=for-the-badge"/>
   </a>
   <a href="https://dtf.ru/u/632455-sergey">
     <img src="https://img.shields.io/badge/DTF (Мои статьи)-yellowgreen?style=for-the-badge"/>
