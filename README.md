@@ -4,9 +4,6 @@
 <a href="https://habr.com/ru/users/SergeyFedorenko/posts/">
     <img src="https://img.shields.io/badge/ХАБР (Мои статьи)-orange?style=for-the-badge"/>
   </a>
-  <a href="https://dtf.ru/u/632455-sergey">
-    <img src="https://img.shields.io/badge/DTF (Мои статьи)-yellowgreen?style=for-the-badge"/>
-  </a>
   <a href="https://www.youtube.com/channel/UC3Mdyy7fXoAFRPkf6fkt8DA/videos">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
