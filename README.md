@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/BK-blue?style=for-the-badge"/>
   </a>
 </div>
-<h1>
 
 ### :hammer_and_wrench: Языки и программные средства :
 <div>
