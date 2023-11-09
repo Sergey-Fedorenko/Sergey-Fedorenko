@@ -10,9 +10,9 @@
   <a href="https://vk.com/morfis_yt">
     <img src="https://img.shields.io/badge/BK-blue?style=for-the-badge"/>
   </a>
-    ![](https://komarev.com/ghpvc/?username=your-github-username)
+   
 </div>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
 ### :hammer_and_wrench: Языки и программные средства :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="60" height="60"/>&nbsp;
