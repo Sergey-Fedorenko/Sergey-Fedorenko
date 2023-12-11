@@ -4,6 +4,13 @@
   </a>
 </h1>
 
+<h1 align="center">
+      <a href="https://www.youtube.com/channel/UC3Mdyy7fXoAFRPkf6fkt8DA"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <a href="https://t.me/morfis_yt"> <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+      <a href="https://vk.com/club215451017"> <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white">
+</h1>
+
+
 <!-- Карточки видео на ютубе -->
 <details> 
   <summary><h2>📺 Мои видео на YouTube</h2></summary>
@@ -50,17 +57,19 @@
       <a href="#"><img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-302E31?logo=obs-studio&logoColor=white"></a>
       <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
       <a href="#"><img alt="WebStorm" src="https://img.shields.io/badge/Web%20Storm%20-0058d9.svg?logo=WebStorm&logoColor=white"></a>
+      <a href="#"><img alt=" Notepad++" src="https://img.shields.io/badge/ Notepad++%20-ffa726.svg?logo= Notepad++&logoColor=white"></a> 
   </p>
 </details>
 
 <details> 
-  <summary><h2>📺Публикации на Хабр</h2></summary>
-
--   25-10-2023 : [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
--   23-11-2023 : [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
-
+  <summary><h2>📝Публикации на Хабр</h2></summary>
+-   25-10-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
+-   23-11-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
   </details>
+  
+<h2 align="center">⚡ Статистика ⚡</h2>
 <p align="center">
+  
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
