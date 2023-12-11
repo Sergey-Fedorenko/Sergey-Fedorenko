@@ -53,12 +53,13 @@
   </p>
 </details>
 
-### :pencil: [Публикации на Хабр](https://habr.com/ru/users/SergeyFedorenko/publications/articles/)
-<!--START_SECTION:blog-posts-->
--   25-10-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
--   23-11-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
-<!--END_SECTION:blog-posts-->
------
+<details> 
+  <summary><h2>📺Публикации на Хабр</h2></summary>
+
+-   25-10-2023 : [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
+-   23-11-2023 : [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
+
+  </details>
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
