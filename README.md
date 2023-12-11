@@ -1,4 +1,6 @@
-# Приветствую! 👋
+<p align="center">
+<h2>Приветствую! 👋</h2>
+</p>
 <!-- Карточки видео на ютубе -->
 <details> 
   <summary><h2>📺 Мои видео на YouTube</h2></summary>
@@ -10,7 +12,12 @@
 <a href="https://www.youtube.com/watch?v=Zc2iakPZbLw&t"><img src="https://ytcards.demolab.com/?id=Zc2iakPZbLw&title=Minecraft (1.8 - 1.18)-Пишем бота на JavaScript (Mineflayer).Урок 11: Взаимодействие с коровами&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172"></a>
 </details>
 
-
+### :pencil: [Публикации на Хабр](https://habr.com/ru/users/SergeyFedorenko/publications/articles/)
+<!--START_SECTION:blog-posts-->
+-   25-10-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
+-   23-11-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
+<!--END_SECTION:blog-posts-->
+-----
 <p align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
