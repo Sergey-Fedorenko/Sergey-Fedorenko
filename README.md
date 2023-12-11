@@ -63,8 +63,8 @@
 
 <details> 
   <summary><h2>📝Публикации на Хабр</h2></summary>
--   25-10-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9](https://habr.com/ru/articles/695372/)
--   23-11-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14](https://habr.com/ru/articles/701056/)
+-   25-10-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 1-9] (https://habr.com/ru/articles/695372/)<br/>
+-   23-11-2023 [Пишем бота на JavaScript для Minecraft (1.8-1.18) / Часть 10-14] (https://habr.com/ru/articles/701056/)
   </details>
   
 <h2 align="center">⚡ Статистика ⚡</h2>
