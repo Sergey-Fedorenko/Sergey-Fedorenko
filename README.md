@@ -1,6 +1,9 @@
-<p align="center">
-<h2>Приветствую! 👋</h2>
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Привет,+мир!+👋;This+is+Osman+DURDAĞ....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
 <!-- Карточки видео на ютубе -->
 <details> 
   <summary><h2>📺 Мои видео на YouTube</h2></summary>
