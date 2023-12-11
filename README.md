@@ -1,17 +1,4 @@
 # Приветствую! 👋
-
-<div id="badges">
-<a href="https://habr.com/ru/users/SergeyFedorenko/posts/">
-    <img src="https://img.shields.io/badge/ХАБР (Мои статьи)-orange?style=for-the-badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UC3Mdyy7fXoAFRPkf6fkt8DA/videos">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
-  <a href="https://vk.com/morfis_yt">
-    <img src="https://img.shields.io/badge/BK-blue?style=for-the-badge"/>
-  </a>
-</div>
-
 <!-- Карточки видео на ютубе -->
 <details> 
   <summary><h2>📺 Мои видео на YouTube</h2></summary>
@@ -23,8 +10,12 @@
 <a href="https://www.youtube.com/watch?v=Zc2iakPZbLw&t"><img src="https://ytcards.demolab.com/?id=Zc2iakPZbLw&title=Minecraft (1.8 - 1.18)-Пишем бота на JavaScript (Mineflayer).Урок 11: Взаимодействие с коровами&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172"></a>
 </details>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sergey-Fedorenko&hide=TeX&layout=compact)
-![Rashmi's Github Stats](https://github-readme-stats.vercel.app/api?username=Sergey-Fedorenko&count_private=true&show_icons=true&include_all_commits=true)
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sergey-Fedorenko&theme=aura_dark" alt="Sublime's custom image"/>
+</p>
 
 Языки и программные средства :
 <div
